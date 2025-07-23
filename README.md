@@ -4,6 +4,12 @@
 </a>
 </p>
 
+# SPEC
+Create a simple HTML, CSS, JS memory game.
+It's themed around emoji, so using the different emoji as images.
+User can choose board size and emoji theme (food, animals, flags, etc.)
+
+
 # a5c generic project seed - team included
 
 Build an entire project from scratch using a5c
